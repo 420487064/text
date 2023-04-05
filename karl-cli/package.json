@@ -1,0 +1,75 @@
+{
+  "_from": "karl-cli",
+  "_id": "karl-cli@1.0.7",
+  "_inBundle": false,
+  "_integrity": "sha512-SMc/3EYkgCvXnrSKBgeA/UbDRYyO9rKhsG3bTR71024R5OpQEmSWpqGKbF9FwHX5Cs8r5u46YpnzPxCyF+smgw==",
+  "_location": "/karl-cli",
+  "_phantomChildren": {
+    "ansi-styles": "4.3.0",
+    "buffer": "5.7.1",
+    "chalk": "4.1.2",
+    "cli-spinners": "2.7.0",
+    "escape-string-regexp": "1.0.5",
+    "external-editor": "3.1.0",
+    "inherits": "2.0.4",
+    "is-fullwidth-code-point": "3.0.0",
+    "lodash": "4.17.21",
+    "mute-stream": "0.0.8",
+    "onetime": "5.1.2",
+    "run-async": "2.4.1",
+    "rxjs": "7.5.7",
+    "signal-exit": "3.0.7",
+    "string_decoder": "1.1.1",
+    "through": "2.3.8",
+    "util-deprecate": "1.0.2",
+    "wcwidth": "1.0.1"
+  },
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "karl-cli",
+    "name": "karl-cli",
+    "escapedName": "karl-cli",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmmirror.com/karl-cli/-/karl-cli-1.0.7.tgz",
+  "_shasum": "270bab3626a10aa1138625bfeb455b806abec40c",
+  "_spec": "karl-cli",
+  "_where": "C:\\Users\\86153\\Desktop\\kidy-cli",
+  "author": {
+    "name": "Karl_fang"
+  },
+  "bin": {
+    "karl": "index.js"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "commander": "^9.3.0",
+    "download-git-repo": "^3.0.2",
+    "ejs": "^3.1.8",
+    "inquirer": "^8.2.4",
+    "log-symbols": "^4.1.0",
+    "nprogress": "^0.2.0",
+    "ora": "^5.4.1"
+  },
+  "deprecated": false,
+  "description": "This is a tool that can help you build projects quickly",
+  "keywords": [
+    "cli",
+    "vue",
+    "vuepress"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "karl-cli",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.7"
+}
